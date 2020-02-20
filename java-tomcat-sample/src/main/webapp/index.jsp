@@ -6,6 +6,8 @@
     <p>Hello World, this is amazing tutorial THANKS</p>
     <p>All Rights reserved</p>
     <h4>Patryk Pawl@k</h4>
+    <h4>thepatrvq@gmail.com</h4>
+
 </body>
 
 </html>
