@@ -10,6 +10,7 @@
     </div>
     <div>
         <h2>All rights reserved!</h2>
+        <h1>Whats UP ?</h1>
     </div>
 </body>
 
