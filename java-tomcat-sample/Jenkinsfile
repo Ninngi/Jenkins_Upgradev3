@@ -16,7 +16,6 @@ pipeline {
             steps{
                 build job: 'DeployAppStagingEnv'
             }
-            
         }
         stage('Deploy to Production'){
             steps{
